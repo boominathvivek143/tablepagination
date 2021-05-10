@@ -6,7 +6,7 @@
   "main": "index.js",
   "dependencies": {
     "axios": "^0.19.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "namor": "1.0.1",
     "react": "15.5.3",
     "react-dom": "15.5.3",
